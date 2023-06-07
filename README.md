@@ -1,4 +1,15 @@
-# dividir_cuenta
+# Dividir Cuenta - VUE + Bootstrap 5
+
+
+## [Vista]()
+<p aling="center"><img src="./README/1.png"></p>
+
+
+##  En Acción
+<p aling="center"><img src="./README/2.png"></p>
+
+
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
